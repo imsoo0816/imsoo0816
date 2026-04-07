@@ -1,11 +1,10 @@
-<div align="center">
-  <h2>🐶 동물농장 🐶</h2>
-  <img
-    src="https://render.gitanimals.org/farms/imsoo0816"
-    width="800"
-    height="300"
-  />
-</div>
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=imsoo0816&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/imsoo0816"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--
 **imsoo0816/imsoo0816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
